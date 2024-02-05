@@ -2,7 +2,7 @@
   "name": "KeeperApp",
   "version": "1.0.0",
   "description": "Keeper - A Simple Note-Taking App",
-  "keywords": [],
+  "keywords": ["keeper", "note-taking", "app", "react", "typescript", "frontend", "web", "development", "javascript"],
   "main": "src/index.js",
   "dependencies": {
     "react": "18.2.0",
